@@ -30,14 +30,16 @@
 - Implement methods for improving machine learning models by choosing the learning rate, plotting the learning curve, performing feature engineering, and applying polynomial regression.
 
 ### Outline
-#### Supervised vs unsupervised learning
+#### Multiple Linear Regression
   - Lab:
-      -
-  - Practice quiz: 
-#### Regression
+      - Python, Numpy and Vectorization
+      - Multiple Linear Regression
+  - Practice quiz: Multiple Linear Regression
+#### Gradient Descent Practice
   - Lab:
-      - 
-      - 
+      - Feature Scaling
+      - Feature Engineering
+      - Linear Regression with Sklearn
   - Practice quiz: Regression Model
 #### Train the model with gradient descent
   - Lab:
