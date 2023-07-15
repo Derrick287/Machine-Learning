@@ -40,10 +40,6 @@
       - Feature Scaling
       - Feature Engineering
       - Linear Regression with Sklearn
-  - Practice quiz: Regression Model
-#### Train the model with gradient descent
-  - Lab:
-      - 
-  - Practice quiz: 
+  - Practice quiz: Regression Model 
 
 
