@@ -5,7 +5,7 @@
 - Implement the purpose of a cost function.
 - Implement how gradient descent is used to train a Machine Learning model.
 
-# Outline
+## Outline
 ### Supervised vs unsupervised learning
   - Lab:
       -Python Jupiter Notebook
