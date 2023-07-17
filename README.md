@@ -1,1 +1,1 @@
-# Machine Learning Specialization - Coursera by DeepLearning.AI
+# Machine Learning Specialization - DeepLearning.AI
