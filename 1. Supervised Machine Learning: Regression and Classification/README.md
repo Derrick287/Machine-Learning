@@ -43,7 +43,7 @@
   - Practice quiz: Regression Model 
   
   
-## Week 2
+## Week 3
 ### Objective
 - Implement and understand the logistic regression model for classification.
 - Learn why logistic regression is better suited for classification tasks than the linear regression model is.
